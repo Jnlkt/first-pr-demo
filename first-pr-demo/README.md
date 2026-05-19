@@ -16,4 +16,4 @@ Andere können die Änderungen überprüfen, bevor sie in den Hauptzweig überno
 
 ## Mitwirken
 
-Verbesserungsvorschläge sind herzlich wilkommen!
+Verbesserungsvorschläge sind herzlich willkommen!
